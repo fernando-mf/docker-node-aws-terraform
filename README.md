@@ -7,5 +7,6 @@ This docker image provides a build/deployment environment for projects using
 - terraform
 - aws cli
 - node
+- docker cli
 
 You can easily integrate this in your CI/CD pipelines
