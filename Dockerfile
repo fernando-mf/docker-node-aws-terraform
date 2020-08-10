@@ -1,6 +1,6 @@
 FROM node:13-alpine
 
-ARG TERRAFORM_VERSION=0.11.0
+ARG TERRAFORM_VERSION=0.11.14
 
 RUN apk add --no-cache \
     docker-cli \
